@@ -1,5 +1,7 @@
 {
   "app_info": {
-    "home_page_url": "https://aboeman.000webhostapp.com/app/home/"
+    "update": "no",
+    "splash_screen": "https://f.top4top.io/p_2513oei3h1.png",
+    "main_api_url": "https://aboeman.000webhostapp.com/app/home/"
   }
 }
