@@ -14,7 +14,9 @@
 
     "main_api_url": "https://zeus-chk-1.herokuapp.com",
     
-    "home_page_url": "https://aboeman.000webhostapp.com/vt-vod/"
+    "home_page_url": "https://aboeman.000webhostapp.com/vt-vod/",
+    
+    "yacine_ch_api_url": "https://ver3.yacinelive.com/api/channel/",
 
   }
 
